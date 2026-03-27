@@ -24,5 +24,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
+
 admin dashboard
 Create a_main.jsx and set Context.Provider value = {isAuthenticated, setIsAuthenticated,user, setUser} to access these values from anywhere in this project.
