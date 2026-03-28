@@ -27,3 +27,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 admin dashboard
 Create admin_App.jsx, admin_App.css, admin_main.jsx and set Context.Provider value = {isAuthenticated, setIsAuthenticated,user, setUser} to access these values from anywhere in this project.
+
+created paths in admin_App.jsx
+
+setup react-toastify for admin dashboard
