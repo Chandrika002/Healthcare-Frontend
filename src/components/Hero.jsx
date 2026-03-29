@@ -18,11 +18,11 @@ const Hero = ({ title, imageUrl }) => {
         </div>
         <div className="banner">
           <img
-              src={imageUrl}
-              alt="hero"
-              className="animated-image"
-              style={{ width: "350px", height: "auto" }}
-            />
+            src={imageUrl}
+            alt="hero"
+            className="animated-image"
+            style={{ width: "350px", height: "auto" }}
+          />
           <span>
             <img src="/Vector.png" alt="vector" />
           </span>
